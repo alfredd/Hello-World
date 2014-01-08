@@ -1,1 +1,2 @@
 Another junk file for testing.
+I am trying to see how git handles conflicts in code commits. 
