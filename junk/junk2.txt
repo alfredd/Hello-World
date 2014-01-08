@@ -1,1 +1,3 @@
 Another junk file for testing.
+
+And then how it merges changes.
